@@ -12,31 +12,31 @@ built with Streamlit and connected to a REST API deployed on AWS EC2.
 
 ## Demo
 
-[Ver vídeo demo / Watch demo video](https://youtu.be/1VSvDha3Cec)
+[Ver vídeo demo / Watch demo video](https://youtu.be/Fi_Xb3yMr58)
 
-Clica lal imagen inferior para ver el vídeo demo.
+Clica la imagen inferior para ver el vídeo demo.
 Click the image below to watch the demo video.
 
-[![Vídeo Demo](https://img.youtu.be/1VSvDha3Cec/maxresdefault.jpg)](https://youtu.be/1VSvDha3Cec)
+[![Vídeo Demo](https://img.youtu.be/Fi_Xb3yMr58/maxresdefault.jpg)](https://youtu.be/Fi_Xb3yMr58)
 
 ---
 
 ## Screenshots
 
-![Inicio](docs/screenshots/inicio.png)
-![Predictor de Éxito](docs/screenshots/predictor.png)
-![Visualizaciones](docs/screenshots/visualizaciones.png)
-![Consultas](docs/screenshots/consultas.png)
+![Inicio](screenshots/Inicio.png)
+![Predictor de Éxito](screenshots/predictor.png)
+![Visualizaciones](screenshots/visualizaciones.png)
+![Consultas](screenshots/consultas.png)
 
 ---
 
 ## ¿Qué es esta aplicación? / What is this app?
 
 Esta aplicación es la **capa de visualización** del proyecto
-[GamerFutur — RAWG Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics).
+[RAWG-AWS-ML-Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics).
 
 This app is the **visualization layer** of the
-[GamerFutur — RAWG Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics) project.
+[RAWG-AWS-ML-Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics) project.
 
 Permite a cualquier usuario — sin conocimientos de SQL ni programación — **interactuar con ~20.000 videojuegos** almacenados en PostgreSQL RDS mediante lenguaje natural, predicción ML y gráficos automáticos.
 
@@ -111,7 +111,7 @@ Esta app es solo la capa visual. El sistema completo incluye ETL pipeline, Lambd
 
 This app is only the visual layer. The full system includes ETL pipeline, Lambda functions, FastAPI, and XGBoost model:
 
-🔗 [GamerFutur — RAWG Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics)
+🔗 [RAWG-AWS-ML-Analytics](https://github.com/Daniel-GH12/rawg-aws-ml-analytics)
 
 ---
 
